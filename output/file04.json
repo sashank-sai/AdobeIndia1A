@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "filename": "file04.pdf",
+    "total_pages": 1,
+    "title": "Parsippany -Troy Hills STEM Pathways",
+    "author": "",
+    "subject": "",
+    "creator": "Google"
+  },
+  "content": {
+    "title": "Parsippany -Troy Hills STEM Pathways",
+    "sections": [
+      {
+        "heading": "Content",
+        "level": 1,
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Mission Statement:  To provide PTHSD high school students with the opportunity to  concentrate their studies, beyond those required in high school, in the areas of science,  technology, engineering, and mathematics, and expose students to relevant real world  experiences through project work, conferences and presentations to enhance their high school  experience.",
+            "page": 1
+          }
+        ],
+        "subsections": [],
+        "page": 1
+      },
+      {
+        "heading": "PATHWAY OPTIONS",
+        "level": 1,
+        "content": [],
+        "subsections": [],
+        "page": 1
+      },
+      {
+        "heading": "REGULAR PATHWAY",
+        "level": 1,
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "● 4 credits of Math",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "● 4 credits of Science",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "● 4 credits of STEM-designated electives",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "● Maintain an overall 2.85 GPA",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "● Participate in a minimum of 3 STEM  presentations/conferences each year  with a required minimum total of 12  presentations/conferences throughout  the 4 years. *",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "● Join and actively participate in a  STEM-related extracurricular activity or  club every year of attendance. -",
+            "page": 1
+          }
+        ],
+        "subsections": [],
+        "page": 1
+      },
+      {
+        "heading": "DISTINCTION PATHWAY",
+        "level": 1,
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "● 4 credits of Math - At least one math  course should be an AP Math class.",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "● 4 credits of Science- At least one  science course should be an AP  Science class.",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "● 4 credits of STEM-designated electives  - One must be a Computer  Science/Technology Class",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "● Maintain an overall 3.5 GPA",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "● Participate in a minimum of 3 STEM  presentations/conferences a year with a  required minimum total of 12  presentations/conferences throughout  the 4 years.",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "● Join and actively participate in a  STEM-related extracurricular activity or  club every year of attendance.",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "● Either participate in an internship or  design and implement a community  impact project.",
+            "page": 1
+          }
+        ],
+        "subsections": [],
+        "page": 1
+      },
+      {
+        "heading": "Goals:",
+        "level": 1,
+        "content": [
+          {
+            "type": "list_item",
+            "text": "• Inspire keen interest in mathematics, science, engineering, and technology, develop strong scholarship in the subject and  promote the enjoyment of these studies in high school.",
+            "page": 1
+          },
+          {
+            "type": "list_item",
+            "text": "• Expose students to potential career opportunities in the field. • Encourage students to pursue higher education and major in  STEM careers. • Promote interactions with STEM professionals to learn about  future opportunities. • Support field experiences connected to the world outside of  the school building. • Signal to employers, universities, training programs, and  military that a student has completed a comprehensive course  of study in a specialized area. • Cultivate transferable work habits such as perseverance, goal  setting, and self-direction.",
+            "page": 1
+          }
+        ],
+        "subsections": [],
+        "page": 1
+      }
+    ],
+    "tables": [],
+    "figures": [
+      {
+        "type": "image",
+        "page": 1,
+        "index": 0,
+        "description": "Figure 1 on page 1"
+      },
+      {
+        "type": "image",
+        "page": 1,
+        "index": 1,
+        "description": "Figure 2 on page 1"
+      },
+      {
+        "type": "image",
+        "page": 1,
+        "index": 2,
+        "description": "Figure 3 on page 1"
+      },
+      {
+        "type": "image",
+        "page": 1,
+        "index": 3,
+        "description": "Figure 4 on page 1"
+      }
+    ],
+    "footnotes": [],
+    "references": []
+  },
+  "statistics": {
+    "word_count": 326,
+    "paragraph_count": 14,
+    "section_count": 5
+  }
+}

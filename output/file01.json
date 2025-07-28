@@ -1,0 +1,215 @@
+{
+  "metadata": {
+    "filename": "file01.pdf",
+    "total_pages": 1,
+    "title": "Microsoft Word - LTC_CLAIM_FORMS .doc",
+    "author": "nicsi",
+    "subject": "",
+    "creator": "PScript5.dll Version 5.2.2"
+  },
+  "content": {
+    "title": "",
+    "sections": [
+      {
+        "heading": "Content",
+        "level": 1,
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Application form for grant of LTC advance",
+            "page": 1
+          },
+          {
+            "type": "list_item",
+            "text": "1.  Name of the Government Servant",
+            "page": 1
+          },
+          {
+            "type": "list_item",
+            "text": "2.  Designation",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "3.",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "Date of entering the Central Government",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "Service",
+            "page": 1
+          },
+          {
+            "type": "list_item",
+            "text": "4.  PAY + SI + NPA",
+            "page": 1
+          },
+          {
+            "type": "list_item",
+            "text": "5.  Whether permanent or temporary",
+            "page": 1
+          },
+          {
+            "type": "list_item",
+            "text": "6.  Home Town as recorded in the Service Book",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "7.",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "Whether wife / husband is employed and if",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "so whether entitled to LTC",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "8.",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "Whether the concession is to be availed for",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "visiting home town and if so block for which",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "LTC is to be availed.",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "9.",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "(a) If the concession is to visit anywhere in",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "India, the place to be visited.",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "(b) Block for which to be availed.",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "10.",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "Single  rail  fare/bus  fare  from  the",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "headquarters to home town/place of visit by",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "shortest route.",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "11.",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "Persons in respect of whom LTC is proposed to be availed.",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "S.No  Name  Age  Relationship",
+            "page": 1
+          },
+          {
+            "type": "list_item",
+            "text": "1.  2.  3.  4.",
+            "page": 1
+          },
+          {
+            "type": "list_item",
+            "text": "5.  6.",
+            "page": 1
+          },
+          {
+            "type": "list_item",
+            "text": "12. Amount of advance required.  Rs.",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "I declare that the particulars furnished above are true and correct to the best of my knowledge.  I  undertake to produce the tickets for the outward journey within ten days of receipt of the advance.",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "In the event of cancellation of the journey or if I fail to produce the tickets within ten days of receipt of  advance, I undertake to refund the entire advance in one lump sum.",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "Date",
+            "page": 1
+          },
+          {
+            "type": "paragraph",
+            "text": "Signature of Government Servant.",
+            "page": 1
+          }
+        ],
+        "subsections": [],
+        "page": 1
+      }
+    ],
+    "tables": [
+      {
+        "type": "table_row",
+        "content": "Single | rail | fare/bus | fare | from | the",
+        "page": 1,
+        "columns": 6
+      },
+      {
+        "type": "table_row",
+        "content": "S.No | Name | Age | Relationship",
+        "page": 1,
+        "columns": 4
+      }
+    ],
+    "figures": [],
+    "footnotes": [],
+    "references": []
+  },
+  "statistics": {
+    "word_count": 221,
+    "paragraph_count": 26,
+    "section_count": 1
+  }
+}
